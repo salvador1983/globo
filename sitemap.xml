@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://jaliscoenglobo.com/</loc>
+  <lastmod>2014-12-13T00:11:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/index.html</loc>
+  <lastmod>2014-12-13T00:11:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/nosotros.html</loc>
+  <lastmod>2014-08-20T21:32:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/paquetes.html</loc>
+  <lastmod>2014-12-11T23:58:20+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/pilotos.html</loc>
+  <lastmod>2014-11-09T19:13:53+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/galeria.html</loc>
+  <lastmod>2014-08-20T21:32:35+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/concejos.html</loc>
+  <lastmod>2014-08-20T21:32:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/contacto.html</loc>
+  <lastmod>2014-12-12T00:16:01+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/blog.html</loc>
+  <lastmod>2014-08-16T00:58:15+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://jaliscoenglobo.com/avisodeprivacidad.html</loc>
+  <lastmod>2014-12-12T00:14:29+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

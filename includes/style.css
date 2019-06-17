@@ -1,0 +1,82 @@
+/ ** * Html5doctor.com Restablecer v1.6.1 hoja de estilos (http://html5doctor.com/html-5-reset-stylesheet/) * Richard Clark (http://richclarkdesign.com) * Http://cssreset.com * /HTML , cuerpo , div , lapso ,  objeto , iframe ,h1 , h2 , h3 , h4 , h5 , h6 , p , blockquote , pre ,abbr , dirección , citar , código ,del , DFN , em , img , ins , kbd , q , samp ,pequeño , fuerte ,  sub , sup ,  var ,b , i ,dl , dt , dd , ol , ul , li ,fieldset , forma , etiqueta , leyenda ,tabla , título , tbody , tfoot , thead , tr , th , td ,artículo , a un lado , de la lona , detalles , figcaption , figura ,pie de página , encabezado , hgroup , menú , navegación , sección , resumen ,tiempo , la marca , de audio , de vídeo {    Margen : 0 ;    padding : 0 ;    fronteriza : 0 ;    esbozar : 0 ;    fuente - Tamaño : 100 %;    verticales - align : línea de base ;    fondo : transparente ;}cuerpo {    line - Altura : 1 ;}artículo , a un lado , los detalles , figcaption , figura ,pie de página , encabezado , hgroup , menú , navegación , sección {    pantalla : bloque ;}nav ul {    lista - estilo : ninguno ;}blockquote , q {    citas : none ;}blockquote : antes , blockquote : después ,q : antes , q : después {    contenido : '' ;    Contenido : ninguno ;}un {    Margen : 0 ;    padding : 0 ;    fuente - Tamaño : 100 %;    verticales - align : línea de base ;    fondo : transparente ;}/ * Cambio de colores para adaptarse a sus necesidades * /ins {    fondo - de color : # ff9;    de color : # 000;    texto - la decoración : ninguno ;}/ * Cambio de colores para adaptarse a sus necesidades * /mark {    fondo - de color : # ff9;    de color : # 000;    fuente - estilo : cursiva ;    fuente - peso : en negrilla ;}del  {    texto - la decoración : la línea - a través de ;}abbr [ título ], dfn [ título ]  {    frontera - abajo : 1px de puntos ;    cursor : ayuda ;}tabla {    frontera - colapso : el colapso ;    frontera - espaciamiento : 0 ;}/ * Cambio de color de la frontera para adaptarse a sus necesidades * /hr {    pantalla : bloque ;    altura : 1px ;    fronteriza : 0 ;    frontera - top : 1px sólido # cccccc;    margen : 1 em  0 ;    padding : 0 ;}de entrada ,  seleccione  {    verticales - align : media ;}
+/*
+
+<!-- star -->
+*/
+
+
+
+/*
+.hover a:hover {
+    background:url(./images/btnhomeh.png);
+    position:absolute;
+    top:0px;
+    z-index: 101;
+}
+*/
+
+
+
+
+
+
+.backnav{
+	background: #c0e2ee;
+	
+}
+
+.header{
+
+background:url('../images/back.png');
+background-size:100% 100%;
+background-repeat:no-repeat;
+
+
+
+
+}
+footer{
+	background: #ffffff;
+}
+
+header{
+background-color: #ffffff;
+margin:0 auto; 
+width:auto; 
+overflow:hidden; 
+}
+
+
+	
+
+/*
+nav{
+	
+	display: block;
+	float: left;
+	margin-bottom: 10px;
+	
+}
+
+nav ul{
+	width: auto;
+	float: left;
+	
+}
+nav ul li{
+	width: auto;
+	display: block;
+	
+	padding: 0, 0px, 0px, 0;
+	text-align: center;
+	
+}
+nav ul li a{
+    font-size: 15px;
+	text-align: center;
+	padding: 0, 10px, 0, 0;
+	text-transform: uppercase;  
+	font-weight: bold
+}
+
+*/
